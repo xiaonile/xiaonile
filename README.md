@@ -1,5 +1,5 @@
 # Hello World!! 👋
-
+![banner](Khartu-Al.jpg)
 My name is Ingrid, you can call me Nizi (either works)! I'm a software dev at GitHub. 
 
 Current Obessions:
