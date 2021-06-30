@@ -3,9 +3,9 @@
 My name is Ingrid, you can call me Nizi (either works)! I'm a software dev at GitHub. 
 
 Current Obessions:
-* Game: Valheim
-* Book: _Rhythm of War_ by Brandon Sanderson
-* Show: NA
+* 🎮  : Valheim, Genshin Impact
+* 📖  : _Rhythm of War_ by Brandon Sanderson
+* 📺  : NA
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
