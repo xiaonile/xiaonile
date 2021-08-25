@@ -1,11 +1,10 @@
 # Hello World!! 👋
 ![banner](Khartu-Al.jpg)
-My name is Ingrid, you can call me Nizi (either works)! I'm a software dev at GitHub. 
 
-Current Obessions:
-* 🎮  : Valheim, Genshin Impact
+Currently Enjoying:
+* 🎮  : Star Citizen, Valheim, Genshin Impact
 * 📖  : _Rhythm of War_ by Brandon Sanderson
-* 📺  : NA
+* 📺  : Horimiya, VLDL Sketches
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
