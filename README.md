@@ -1,10 +1,10 @@
 # Hello World!! 👋
-![banner](Khartu-Al.jpg)
+![Screen Shot 2021-12-02 at 16 13 53](https://user-images.githubusercontent.com/66642985/144523448-e080e0b0-812f-415e-a328-d93b1c69ceea.png)
 
-Currently Enjoying:
-* 🎮  : Star Citizen, Valheim, Genshin Impact
+Junior software engineer here; currently enjoying:
+* 🎮  : Genshin Impact, Star Citizen, Valheim
 * 📖  : _Rhythm of War_ by Brandon Sanderson
-* 📺  : Link Click (时光代理人）
+* 📺  : Cowboy Bebop, Link Click (时光代理人）
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
