@@ -4,7 +4,7 @@
 Junior software engineer here; currently enjoying:
 * 🎮  : Genshin Impact, Star Citizen, Valheim
 * 📖  : _Rhythm of War_ by Brandon Sanderson
-* 📺  : Cowboy Bebop, Link Click (时光代理人）
+* 📺  : Link Click (时光代理人）
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
