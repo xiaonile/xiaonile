@@ -2,9 +2,9 @@
 ![Screen Shot 2021-12-02 at 16 13 53](https://user-images.githubusercontent.com/66642985/144523448-e080e0b0-812f-415e-a328-d93b1c69ceea.png)
 
 Junior software engineer here; currently enjoying:
-* 🎮  : Genshin Impact, Star Citizen
-* 📖  : _Rhythm of War_ by Brandon Sanderson
-* 📺  : Scissor Seven (刺客五六七）
+* 🎮  : Honkai Star Rail, Baldur's Gate, Star Citizen
+* 📖  : _Rhythm of War_ by Brandon Sanderson, _Gideon the Ninth_ by Tamsyn Muir
+* 📺  : Shogun
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
