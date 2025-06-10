@@ -1,10 +1,10 @@
 # Hello World!! 👋
 ![Screen Shot 2021-12-02 at 16 13 53](https://user-images.githubusercontent.com/66642985/144523448-e080e0b0-812f-415e-a328-d93b1c69ceea.png)
 
-Junior software engineer here; currently enjoying:
-* 🎮  : Honkai Star Rail, V Rising
-* 📖  : _Rhythm of War_ by Brandon Sanderson, _Gideon the Ninth_ by Tamsyn Muir
-* 📺  : Frieren:  Beyond Journey's End
+Currently enjoying:
+* 🎮  : Honkai Star Rail, V Rising, It Takes Two, ZZZ
+* 📖  : _Rhythm of War_ by Brandon Sanderson, _Gideon the Ninth_ by Tamsyn Muir, _Apothecary Diaries_ by Hyuga Natsu
+* 📺  : Frieren: Beyond Journey's End, Apothecary Diaries
 <!--
 **xiaonile/xiaonile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
